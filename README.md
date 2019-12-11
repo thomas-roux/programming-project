@@ -8,8 +8,10 @@ This repository contains a Jupyter notebook (**programming-project.ipynb**) desc
 2. Rationale
 3. Assumptions
 4. Developing the Dataset Parameters
+
   4.1 Creating the 'normal' ED population
   4.2 Creating sepsis patients within the 'normal' ED population
+  
 5. The final dataset
 6. Limitations
 7. References
